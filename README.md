@@ -8,3 +8,8 @@ I decided that it will be great to show emotion by involving color, typeface, mo
 Results were very interesting and I really enjoyed exlporing new techniques and getting more knowledge on the topic.
 
 https://editor.p5js.org/leslairy/sketches/Nz-GnyqtS
+
+
+Credits:
+Leyla Alekperova: visualization, programming
+Built using chart.js
