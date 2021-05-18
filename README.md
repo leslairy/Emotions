@@ -6,3 +6,5 @@ I always was interested in motion graphics and animation so my goal for the fina
 I had a lot sketches to explore my new skills and I was getting different moods from each exploration. 
 I decided that it will be great to show emotion by involving color, typeface, movement and meaning of the word in my work. 
 Results were very interesting and I really enjoyed exlporing new techniques and getting more knowledge on the topic.
+
+https://editor.p5js.org/leslairy/sketches/Nz-GnyqtS
